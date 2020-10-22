@@ -7,9 +7,7 @@
 # 
 
 import sys
-import cv2
 import glob
-import shutil
 import os
 
 def renban_de_rename(dir_path, ext, initial):
